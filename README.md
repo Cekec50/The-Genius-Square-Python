@@ -1,6 +1,6 @@
 # The Genius Square
 
-This project is a Python-based implementation of the board game "The Genius Square". It features a graphical user interface (GUI) and includes AI algorithms to solve the puzzle, allowing for both player versus player and player versus AI gameplay. This was developed as a Bachelor's Thesis Project.
+This project is a Python-based implementation of the board game "The Genius Square". It features a graphical user interface (GUI) and includes AI algorithms to solve the puzzle, allowing for both player versus player and player versus AI gameplay. This project was developed as a Bachelor's Thesis Project at the University of Belgrade, School of Electrical Engineering.
 
 ## Overview
 
